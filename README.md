@@ -1,0 +1,1 @@
+# text-cpoy-to-clipboard_by_click
